@@ -1,7 +1,8 @@
 {
   "name": "com.dominikmarcinowski.tools",
-  "version": "0.0.1-preview.1",
+  "version": "0.0.1",
   "displayName": "DM's Tools",
+  "description": "Just bunch of usefull tools.",
   "author": {
     "name": "Dominik Marcinowski",
     "email": "dmarcinowski@zoho.com",
